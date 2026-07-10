@@ -50,7 +50,7 @@ $$
 
 ## Theory
 
-The state-value function under policy $ pi\ $, denoted by $ V^\pi(s)\ $, represents the expected return starting from state $ s\ $ and following policy $ pi\ $.
+The state-value function under policy $pi$, denoted by $V^\pi(s)$, represents the expected return starting from state $s$ and following policy $pi$.
 
 The Bellman expectation equation is:
 
