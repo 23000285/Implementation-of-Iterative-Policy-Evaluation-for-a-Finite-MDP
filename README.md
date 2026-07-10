@@ -131,10 +131,13 @@ Iterative policy evaluation was implemented successfully using the Gymnasium Fro
 
 ## Inference
 
-- Policy evaluation estimates the value of each state under a fixed policy.
-- The random policy gives equal probability to all actions.
-- States closer to the goal generally have higher values.
-- Hole states and terminal states have low or zero value.
+```text
+
+
+
+```
+
+
 
 
 ---
