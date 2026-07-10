@@ -1,5 +1,9 @@
 # Implementation-of-Iterative-Policy-Evaluation-for-a-Finite-MDP
-Implementation of Iterative Policy Evaluation for a Finite Markov Decision Process
+## Aim
+
+To implement iterative policy evaluation using Gymnasium and estimate the state-value function $V^\pi(s)$ for a fixed random policy.
+
+---
 ## Software Requirements
 
 Install the required Python packages:
@@ -106,6 +110,7 @@ Where:
 # Display Output
 # -------------------------------------------------
 
+# Change the parameters and observe the results
 
 ```
 
@@ -118,6 +123,7 @@ Where:
 Number of Iterations: 
 
 State-Value Function as 4x4 Grid:
+
 
 
 ```
