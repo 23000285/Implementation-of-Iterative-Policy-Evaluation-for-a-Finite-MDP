@@ -45,6 +45,7 @@ The objective is to estimate the state-value function:
 $$
 V^\pi(s)
 $$
+
 ---
 
 ## Theory
